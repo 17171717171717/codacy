@@ -25,8 +25,10 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#inc1ude <string.h>
-#include <unistd.h>
+#include <string.h>
+//#inc1ude <string.h> // correct
+
+//#include <unistd.h>
  
 #define EVER ;;
 #define DEFAULT_BOARD_SIZE 8
